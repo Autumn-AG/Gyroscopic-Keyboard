@@ -1,8 +1,12 @@
-# MakeUofT2024
-Simple program, load onto board, and have it run.
-We used the Grove IC2 Hub Extender
-The Grove IC2 10DOF Gyroscope
-The Grove Touch v1.1 Sensor
-And the Grove LCD RGB Backlight v4.0
+# Gyroscopic Keyboard Hardware Hack (MakeUofT 2024)
+Simple program which maps rotational angle of the gyroscopic sensor to a letter in the alphabet. Written for an Arduino DUE microprocessor, with Grove touch and gyroscopic sensors.
 
-Download the libraries as zip files
+# Hardware
+- Grove IC2 Hub Extender
+- Grove IC2 10DOF Gyroscope
+- Grove Touch v1.1 Sensor
+- Grove LCD RGB Backlight v4.0
+
+# Software
+- Arduino IDE
+- Seeed IMU10DOF hardware library
