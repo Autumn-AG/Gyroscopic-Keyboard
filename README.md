@@ -12,3 +12,4 @@ In this repo is an Arduino program which maps rotational angle of the gyroscopic
 # Software
 - Arduino IDE
 - Seeed IMU10DOF hardware library
+- Grove LCD RGB display hardware library
